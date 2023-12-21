@@ -21,16 +21,38 @@ Hello, and welcome to my Github Repository. This repository has been created in 
 
 [5] Task 5 - Perform Principal Component Analysis on the iris data set, reducing the number of dimensions to two. 
 
-
 ----
 
 **The breakdown of the 'project.ipynb' file are as follows:**
 
+[1] Introduction
 
+[2] What is Supervised Learning?
 
-[15] Conclusion
+[3] What is Classification in Machine Learning?
 
-[16] References
+[4] Types of Learners
+
+[5] What is Regression in Machine Learning?
+
+[6] Exploring the Dataset
+
+[7] The Normal Distribution
+
+[8] Classification & Machine Learning Algorithms
+
+    - Logistic Regression
+    - k-NN (K-Nearest Neighbours)
+    - SVM (Support Vector Machine)
+    - Naive Bayes 
+    - Decision Trees
+    - Random Forest
+
+[9] Results of Classification
+
+[10] Reflection on Project
+
+[11] References
 
 ----
 
@@ -46,7 +68,7 @@ To modify or run the notebooks on a local machine requires the latest version of
 
 Python and jupyter lab are needed to run the .ipnb files in this repository.
 
-[1] Download Python from https://www.python.org/.
+[1] Download Python from https://www.python.org/
 
 [2] Type pip install jupyterlab and press enter.
 
